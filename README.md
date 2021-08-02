@@ -1,7 +1,7 @@
 # exampleServlet
 
 ### **1. Description**
-* Form을 통해 사용자로부터 Username과 Password를 입력 받아 출력하는 간단한 **Servlet** 사용 예제 프로그램입니다.
+* Form을 통해 사용자로부터 Username과 Password를 입력 받아 출력하는 <br> 간단한 **Servlet** 사용 예제 프로그램입니다.
 
 
 ### **2. Environment**
